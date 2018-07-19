@@ -1,0 +1,15 @@
+{
+  "name": "worudocopu",
+  "version": "1.0.0",
+  "description": "Creo que estoy haciendo las cosas bien",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elMike",
+  "license": "ISC",
+  "dependencies": {
+    "express": "",
+    "mongoose": ""
+  }
+}
